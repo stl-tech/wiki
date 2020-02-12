@@ -55,6 +55,14 @@ We started on Slack, and many people use Slack for work currently or in
 the past. If we were to completely leave Slack, I believe many, many
 people would not follow.
 
+### Better Moderation Tools
+
+I do not moderate at all, so I'll let others comment on specifics here
+
+### Allow users to block each other
+
+This will reduce harrassment and moderation interventions
+
 ## Nice-to-haves
 
 Things that are soft requirements. I'm putting this here even though I
